@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "55032bef-6806-4986-aa4e-d613eb056004",
+    "name": "Mack Rau",
+    "phone": "468.943.0869",
+    "email": "Monroe.Pacocha76@hotmail.com",
+    "job": "Forward Web Manager"
+  },
+  {
+    "id": "185d7d30-822b-4689-8f73-c7ba4b4c0fb6",
+    "name": "Alicia Wintheiser",
+    "phone": "697-247-6079",
+    "email": "Brett8@yahoo.com",
+    "job": "Human Solutions Strategist"
+  }
+]
